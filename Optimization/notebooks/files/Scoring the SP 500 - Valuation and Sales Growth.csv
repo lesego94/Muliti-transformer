@@ -1,0 +1,505 @@
+﻿Symbol,Name,Industry,Combined Score,Sales Growth (1 Year),P/E,P/E Relative to Industry,Price/Book,Price/Book Relative to Industry,Price/Sales,Price/Sales Relative to Industry
+,,,,,,,,,,
+NVDA,NVIDIA Corporation,Others,9.8,-6.8,55.4,1.4,12.6,1.8,14.2,2.3
+NKE,"NIKE, Inc. Class B",Others,9.2,-4.4,61.8,1.2,19.1,2.9,4.2,2.2
+AVY,Avery Dennison Corporation,Others,8.8,-1.2,36.8,1.6,9.1,2.1,1.6,1.2
+BLL,Ball Corporation,Others,8.8,-1.5,38.9,1.7,7.1,1.6,1.9,1.5
+HPE,Hewlett Packard Enterprise Co.,Tech,8.8,-6.4,21.4,1.4,1.2,1,0.8,1.3
+SLB,Schlumberger NV,Oil,8.8,0.3,#N/A,#N/A,2.3,1.4,1.7,1.7
+BA,Boeing Company,Others,8.7,-24.3,#N/A,#N/A,#N/A,#N/A,2.4,1
+APH,Amphenol Corporation Class A,Others,8.6,0.3,28.9,1.2,7.1,1.8,4.1,1.4
+APTV,Aptiv PLC,Others,8.6,-0.5,24.7,1.3,6.3,1.5,1.7,1.3
+ATVI,"Activision Blizzard, Inc.",Others,8.6,-13.9,30.5,1.2,3.6,0.8,7.1,1.4
+WEC,WEC Energy Group Inc,Utilities,8.6,-2,25.8,1.1,2.9,1.1,3.9,1.4
+HAL,Halliburton Company,Oil,8.5,-6.6,#N/A,#N/A,2.7,1.6,1,0.9
+ATO,Atmos Energy Corporation,Others,8.4,-6.9,26.2,1,2.4,1,4.6,1.3
+NTAP,"NetApp, Inc.",Tech,8.4,-12,12.3,0.8,39,3.5,1.9,1.2
+PSX,Phillips 66,Oil,8.4,-3.4,16.5,1.1,2,1.3,0.5,1.1
+TXN,Texas Instruments Incorporated,Others,8.4,-8.9,24.5,0.6,13.4,1.9,8.5,1.4
+UNP,Union Pacific Corporation,Others,8.4,-4.9,21.6,1,6.9,1.5,5.9,1.1
+FCX,"Freeport-McMoRan, Inc.",Others,8.3,-24.3,#N/A,#N/A,2,1,1.3,1
+NWS,News Corporation Class B,Others,8.3,-10.6,#N/A,#N/A,0.9,1,0.8,1
+NWSA,News Corporation Class A,Others,8.3,-10.6,#N/A,#N/A,0.9,1,0.8,1
+VRSN,"VeriSign, Inc.",Tech,8.3,1.4,37.4,1.3,#N/A,#N/A,18.6,2.2
+APD,"Air Products and Chemicals, Inc.",Chemicals,8.2,-0.1,27.9,1,4.4,1.2,5.5,1.9
+ECL,Ecolab Inc.,Chemicals,8.2,1.6,36.2,1.3,6.4,1.7,3.8,1.3
+FE,FirstEnergy Corp.,Utilities,8.2,-2,31,1.3,3.8,1.5,2.4,0.9
+HRL,Hormel Foods Corporation,F&B,8.2,-0.5,22.6,1.2,3.7,1.3,2.3,1.5
+ITW,Illinois Tool Works Inc.,Others,8.2,-4.5,23.2,0.8,19,2.9,4.1,1.3
+LUV,Southwest Airlines Co.,Air,8.2,2.1,12.6,1.4,2.8,1.2,1.3,1.7
+NVR,"NVR, Inc.",Others,8.2,3.2,17.2,1.4,5.7,2.1,2.1,1.6
+ROK,"Rockwell Automation, Inc.",Others,8.2,0.5,28.3,1.2,47.2,3.2,2.9,1
+UDR,"UDR, Inc.",Financials,8.2,-2.1,73.8,1.3,4.2,0.9,11.5,1.2
+VLO,Valero Energy Corporation,Oil,8.2,-7.4,16,1.1,1.8,1.1,0.4,0.9
+WMT,Walmart Inc.,F&B,8.2,1.9,22.1,1.3,4.3,1.3,0.6,1.6
+AEE,Ameren Corporation,Utilities,8,-6.1,22.9,1,2.3,0.9,3.2,1.2
+CARR,Carrier Global Corp.,Others,8,-1.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CBOE,Cboe Global Markets Inc,Financials,8,-9.8,36,1.5,4,1,5.4,0.8
+COG,Cabot Oil & Gas Corporation,Oil,8,-7.4,10.7,0.3,3.2,1.5,3.7,1.7
+IR,Ingersoll Rand Inc.,Others,8,-8.8,48.2,1.7,4,0.6,3.1,1
+MAR,"Marriott International, Inc. Class A",Others,8,1,39.9,1.7,69.8,3.7,2.4,1
+OKE,"ONEOK, Inc.",Oil,8,-19.9,24.6,0.9,5,1.8,3.1,0.9
+OMC,Omnicom Group Inc,Service,8,-2.2,13.4,1,6.2,1.5,1.2,1.1
+USB,U.S. Bancorp,Financials,8,1.6,14.3,1.2,2,1.5,3.6,1.3
+ALLE,Allegion PLC,Others,7.8,4.5,29,1.2,15.2,1.9,4.1,1.6
+CE,Celanese Corporation,Chemicals,7.8,-12,18,0.4,5.9,2,2.4,1.2
+CVX,Chevron Corporation,Oil,7.8,-11.7,78.1,2.1,1.6,0.7,1.6,0.8
+HON,Honeywell International Inc.,Others,7.8,-12.2,21,0.6,6.8,1.2,3.5,1.5
+IEX,IDEX Corporation,Others,7.8,0.4,30.9,1.1,5.8,0.9,5.3,1.7
+K,Kellogg Company,F&B,7.8,0.2,24.7,1.1,8.6,2.1,1.7,0.9
+MMM,3M Company,Others,7.8,-1.9,22.6,0.6,10.1,1.8,3.2,1.3
+NUE,Nucor Corporation,Others,7.8,-9.9,13.6,1,1.6,1,0.8,1
+SHW,Sherwin-Williams Company,Others,7.8,2.1,35.4,1.2,13,1.4,3,1.2
+SYY,Sysco Corporation,F&B,7.8,-12,124.5,1,22.9,1,0.5,1
+WYNN,"Wynn Resorts, Limited",Others,7.8,-1.6,120.8,2.4,8.6,1.2,2.2,0.9
+APA,Apache Corporation,Oil,7.8,-14.1,#N/A,#N/A,3,1.7,1.5,0.6
+LUMN,"Lumen Technologies, Inc.",Others,7.8,-4.4,#N/A,#N/A,1.1,1,0.6,1
+AEP,"American Electric Power Company, Inc.",Utilities,7.6,-3.9,24.4,1,2.4,0.9,3,1.1
+AES,AES Corporation,Utilities,7.6,-5.1,43.9,1.9,4.4,1.7,1.3,0.5
+AFL,Aflac Incorporated,Others,7.6,2.5,12,1.1,1.3,1.4,1.8,1.4
+AMD,"Advanced Micro Devices, Inc.",Others,7.6,4,151.7,3.9,19.1,2.7,7.7,1.3
+AMT,American Tower Corporation,Financials,7.6,1.9,54.2,0.9,20.1,4.6,13.5,1.4
+CMS,CMS Energy Corporation,Utilities,7.6,-0.4,26.3,1.1,3.6,1.4,2.6,0.9
+DD,"DuPont de Nemours, Inc.",Chemicals,7.6,-4.8,96.4,2.2,1.2,0.4,2.2,1.1
+F,Ford Motor Company,Others,7.6,-2.8,794.9,2,1.1,1,0.2,0.8
+GL,Globe Life Inc.,Others,7.6,5.2,15.4,1.4,1.6,1.6,2.6,2.1
+LLY,Eli Lilly and Company,Others,7.6,3.8,26.5,1.1,48.3,3.5,5.5,1.2
+PSA,Public Storage,Financials,7.6,-2,29.2,0.5,7.4,1.7,13.1,1.3
+WMB,"Williams Companies, Inc.",Oil,7.6,-5.6,34,1.3,2.2,0.8,3.5,1
+NBL,"Noble Energy, Inc.",Oil,7.5,-1.7,#N/A,#N/A,1.4,0.8,2.7,1.1
+AMAT,"Applied Materials, Inc.",Others,7.4,-12.6,19.5,0.7,6.2,0.9,3.6,1.2
+CAT,Caterpillar Inc.,Others,7.4,-1.7,13.8,0.7,5.6,1.5,1.6,1.1
+EL,Estee Lauder Companies Inc. Class A,Others,7.4,-3.9,101.2,2.7,17.3,0.2,4.9,1.3
+ES,Eversource Energy,Utilities,7.4,0.9,30.2,1.3,2.2,0.9,3.2,1.2
+ILMN,"Illumina, Inc.",Tech,7.4,6.3,49.4,1.8,10.6,1.5,14,1.8
+MDLZ,"Mondelez International, Inc. Class A",F&B,7.4,-0.3,20.8,1,2.9,0.7,3.1,1.6
+MXIM,"Maxim Integrated Products, Inc.",Others,7.4,-5.3,24.6,0.6,9.5,1.3,7.3,1.2
+ROST,"Ross Stores, Inc.",Others,7.4,7,24.4,1.2,11.9,2,2.5,2.3
+SO,Southern Company,Utilities,7.4,-10.3,14.2,0.6,2.5,1,3.2,1.2
+TIF,Tiffany & Co.,Others,7.4,-0.4,30.1,1.3,4.9,0.3,3.7,2
+UPS,"United Parcel Service, Inc. Class B",Air,7.4,2.8,22.9,1,30.7,2.7,1.4,1.3
+WHR,Whirlpool Corporation,Others,7.4,-2.9,8,1,2.9,1,0.5,1
+WRB,W. R. Berkley Corporation,Others,7.4,2.7,19.6,1.5,2.1,1.2,1.7,1.1
+XEL,Xcel Energy Inc.,Utilities,7.4,0.1,24.1,1,2.5,1,2.9,1
+DVN,Devon Energy Corporation,Oil,7.3,-27.3,#N/A,#N/A,1.7,1,1.6,0.6
+HD,"Home Depot, Inc.",Others,7.3,1.9,22.3,1,#N/A,#N/A,2.3,1.3
+MCD,McDonald's Corporation,Others,7.3,0.2,25.1,0.7,#N/A,#N/A,7.2,1.7
+AON,Aon Plc Class A,Financials,7.2,2.2,32.7,0.9,14.3,1.9,4.6,1
+EXPD,"Expeditors International of Washington, Inc.",Air,7.2,0.5,23,1,6,0.5,1.7,1.6
+GM,General Motors Company,Others,7.2,-6.7,8,0,1.2,1,0.4,1.2
+IPGP,IPG Photonics Corporation,Others,7.2,-10,43.3,1.1,3.2,0.4,5.9,1
+IQV,IQVIA Holdings Inc,Service,7.2,6.5,161.5,2.4,4.9,1.5,2.8,1.4
+LVS,Las Vegas Sands Corp.,Others,7.2,0.1,19.7,0.4,10.2,1.5,3.9,1.6
+NTRS,Northern Trust Corporation,Financials,7.2,3.6,16,1.2,2.3,1.4,3.3,1.1
+ODFL,"Old Dominion Freight Line, Inc.",Others,7.2,1.6,24.8,1,4.9,0.9,3.7,1.5
+PNW,Pinnacle West Capital Corporation,Utilities,7.2,-6,18.8,0.8,1.9,0.7,2.9,1.1
+AAPL,Apple Inc.,Others,7,-2.2,18.4,0.9,10.7,1,3.9,0.9
+ADM,Archer-Daniels-Midland Company,Others,7,0.6,19,1,1.3,1,0.4,1
+AMGN,Amgen Inc.,Tech,7,-2.1,18.7,0.7,14.7,2.1,6.3,0.8
+AOS,A. O. Smith Corporation,Others,7,-6.1,21.5,0.9,4.6,0.6,2.7,1
+DVA,DaVita Inc.,Service,7,-0.1,14.2,1,4.4,1,1,1
+FMC,FMC Corporation,Chemicals,7,7.6,27.7,1.1,5.1,1.9,2.9,1.5
+HSY,Hershey Company,F&B,7,2.5,26.9,1.1,17.6,1.1,3.9,1.3
+INFO,IHS Markit Ltd.,Financials,7,10.1,59.1,2.8,3.4,1.6,6.7,1.8
+NEE,"NextEra Energy, Inc.",Utilities,7,7.3,31.2,1.3,3.2,1.2,6.7,2.4
+NLSN,Nielsen Holdings Plc,Service,7,-0.3,#N/A,#N/A,3.3,0.8,1.1,1
+NOV,"National Oilwell Varco, Inc.",Oil,7,0.3,#N/A,#N/A,1.2,0.8,1.1,1.1
+ORLY,"O'Reilly Automotive, Inc.",Others,7,6.4,24.5,1.1,83.4,5.4,3.4,1.9
+OTIS,Otis Worldwide Corporation,Others,7,1.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PEG,Public Service Enterprise Group Inc,Utilities,7,-3.9,17.7,0.8,2,0.8,3.2,1.1
+PM,Philip Morris International Inc.,Others,7,0.6,18.5,1,#N/A,#N/A,4.4,1
+PNR,Pentair plc,Others,7,-0.3,22,1,4,1,2.6,1
+TJX,TJX Companies Inc,Others,7,7,22.1,1.1,11.9,2,1.7,1.6
+UNH,UnitedHealth Group Incorporated,Others,7,7,20.5,1.1,4.8,1.6,1.2,1.7
+VRSK,Verisk Analytics Inc,Financials,7,8.9,55.3,1.6,10.8,1.4,9.5,2.1
+YUM,"Yum! Brands, Inc.",Others,7,-1.6,24.4,0.7,#N/A,#N/A,5.6,1.3
+AXP,American Express Company,Financials,6.8,8.6,15.6,1.3,4.4,2.2,2.2,1.5
+CF,"CF Industries Holdings, Inc.",Chemicals,6.8,3.6,21.5,0.9,3.6,1.4,2.3,1.2
+COP,ConocoPhillips,Oil,6.8,-10.8,10.2,0.3,2,1.2,2.3,0.9
+CSX,CSX Corporation,Others,6.8,-2.6,17.3,0.8,4.7,1,4.8,0.9
+DTE,DTE Energy Company,Utilities,6.8,-11.2,20.6,0.9,2.1,0.8,1.9,0.7
+FAST,Fastenal Company,Others,6.8,7.4,26.8,1.1,8,1.1,4,1.9
+HFC,HollyFrontier Corporation,Oil,6.8,-1.3,11,0.8,1.4,0.9,0.5,1.2
+IDXX,"IDEXX Laboratories, Inc.",Others,6.8,8.8,53.4,1.2,126,10.3,9.5,1.5
+KMI,Kinder Morgan Inc Class P,Oil,6.8,-7.8,22,0.8,1.4,0.5,3.6,1.1
+LNT,Alliant Energy Corp,Utilities,6.8,3.2,23.4,1,2.6,1,3.6,1.3
+LW,"Lamb Weston Holdings, Inc.",F&B,6.8,1,24.1,1,36.5,2.3,2.3,0.8
+MA,Mastercard Incorporated Class A,Financials,6.8,12.9,37.6,1.9,51,3,18.1,2.2
+MKC,"McCormick & Company, Incorporated",F&B,6.8,0.8,32.3,1.3,6.5,0.4,4.2,1.4
+PXD,Pioneer Natural Resources Company,Oil,6.8,3.1,33.6,1.1,2.1,1.2,2.6,1
+ROL,"Rollins, Inc.",Service,6.8,10.6,53.4,1.8,13.3,1.3,5.4,1.4
+UAA,"Under Armour, Inc. Class A",Others,6.8,1.1,106.5,2,4.5,0.7,1.9,1
+VZ,Verizon Communications Inc.,Others,6.8,0.8,13.2,0.8,4.1,1.5,1.9,1.1
+WM,"Waste Management, Inc.",Service,6.8,3.6,29.2,1,6.8,1.3,3.2,1.1
+ZBRA,Zebra Technologies Corporation Class A,Tech,6.8,5.7,25.6,1.7,7.5,0.7,3.1,2
+DOW,"Dow, Inc.",Chemicals,6.8,-13.4,#N/A,#N/A,3,0.8,0.9,0.3
+HLT,Hilton Worldwide Holdings Inc,Others,6.8,6.5,36.5,1.6,#N/A,#N/A,3.4,1.4
+MO,Altria Group Inc,Others,6.8,0.9,#N/A,#N/A,14.9,1,4.7,1
+SBAC,SBA Communications Corp. Class A,Financials,6.8,8,188,3.2,#N/A,#N/A,13.7,1.4
+BBY,"Best Buy Co., Inc.",Others,6.6,1.8,14.7,1,6.2,1,0.5,1
+CB,Chubb Limited,Others,6.6,4.5,16,1.2,1.3,0.8,2.1,1.4
+CL,Colgate-Palmolive Company,Others,6.6,1,25,0.7,502.9,5.3,3.8,1
+EOG,"EOG Resources, Inc.",Oil,6.6,-1.1,17.8,0.6,2.3,1.3,2.8,1.1
+FRC,First Republic Bank,Financials,6.6,16.2,22.6,1.7,2.3,1.4,4.8,1.6
+HWM,Howmet Aerospace Inc.,Others,6.6,1.2,29.9,1,2.9,1,1,1
+PPL,PPL Corporation,Utilities,6.6,-0.2,15.1,0.6,2.1,0.8,3.4,1.2
+SNA,Snap-on Incorporated,Others,6.6,-0.1,13.6,0.7,2.7,0.9,2.3,1.1
+SWK,"Stanley Black & Decker, Inc.",Others,6.6,3.3,26.1,1.3,3.3,1.1,1.7,0.9
+UA,"Under Armour, Inc. Class C",Others,6.6,1.1,94.6,1.8,4,0.6,1.7,0.9
+XYL,Xylem Inc.,Others,6.6,0.9,35.6,1.2,4.8,0.7,2.7,0.9
+HES,Hess Corporation,Oil,6.5,5.8,#N/A,#N/A,2.3,1.3,3.1,1.2
+MSI,"Motorola Solutions, Inc.",Others,6.5,7.4,32.6,1.3,#N/A,#N/A,3.6,1.5
+ADI,"Analog Devices, Inc.",Others,6.4,-3.8,30,0.8,3.4,0.5,6.8,1.1
+BAC,Bank of America Corp,Financials,6.4,3.6,12.8,1,1.3,1,2.9,1.1
+BKNG,Booking Holdings Inc.,Service,6.4,3.7,18.4,0.6,14.3,1.4,5.9,1.5
+CCI,Crown Castle International Corp,Financials,6.4,7.5,79.5,1.3,5.6,1.3,10.4,1.1
+DXCM,"DexCom, Inc.",Others,6.4,43.1,199.7,4.5,22.7,1.9,13.7,2.1
+EIX,Edison International,Utilities,6.4,-2.4,20,0.9,2.1,0.8,2.1,0.8
+ETR,Entergy Corporation,Utilities,6.4,-2.7,19,0.8,2.3,0.9,2.2,0.8
+JKHY,"Jack Henry & Associates, Inc.",Tech,6.4,9.3,47.7,1.4,9.1,1,8.3,1.9
+MKTX,MarketAxess Holdings Inc.,Financials,6.4,17.4,70.2,2.9,18.7,4.7,28.1,4.1
+MTD,Mettler-Toledo International Inc.,Others,6.4,2.5,35.3,0.8,45.5,3.7,6.6,1
+NFLX,"Netflix, Inc.",Others,6.4,27.6,78.3,2.4,18.7,3.8,7.3,2.5
+NOW,"ServiceNow, Inc.",Tech,6.4,32.6,88.8,2.6,25.1,2.8,16.1,3.6
+PKG,Packaging Corporation of America,Others,6.4,-0.7,15.2,0.6,3.5,0.8,1.5,1.2
+TROW,T. Rowe Price Group,Financials,6.4,4.6,14,0.7,4,1.8,5.2,1.4
+LB,"L Brands, Inc.",Others,6.3,-2.4,#N/A,#N/A,#N/A,#N/A,0.5,0.4
+SEE,Sealed Air Corporation,Others,6.3,1.2,21.1,0.9,#N/A,#N/A,1.3,1
+WY,Weyerhaeuser Company,Financials,6.3,-12.3,#N/A,#N/A,2.8,0.6,3.4,0.4
+ICE,"Intercontinental Exchange, Inc.",Financials,6.2,4.2,27.1,1.1,3,0.7,8.5,1.2
+JCI,Johnson Controls International plc,Others,6.2,2.4,80.9,1,1.7,1,1.6,1
+JNJ,Johnson & Johnson,Others,6.2,0.7,25.9,1.1,6.5,0.5,4.8,1
+KSU,Kansas City Southern,Others,6.2,4.2,28.4,1.3,3.3,0.7,5.3,1
+MRO,Marathon Oil Corporation,Oil,6.2,-14.2,22.9,0.8,0.9,0.5,2.2,0.8
+NDAQ,"Nasdaq, Inc.",Financials,6.2,-3,23.1,1,3.1,0.8,4.2,0.6
+NSC,Norfolk Southern Corporation,Others,6.2,-1.4,18.9,0.9,3.3,0.7,4.6,0.9
+SPG,"Simon Property Group, Inc.",Financials,6.2,0.4,22,0.4,18.4,4.2,8.1,0.8
+STT,State Street Corporation,Financials,6.2,0.8,14.7,1.1,1.3,0.8,2.4,0.8
+TYL,"Tyler Technologies, Inc.",Tech,6.2,16.2,82.1,1.1,7.3,1.4,11.1,1.6
+UHS,"Universal Health Services, Inc. Class B",Others,6.2,5.6,15.7,1,2.3,1,1.1,1.1
+VRTX,Vertex Pharmaceuticals Incorporated,Tech,6.2,35.5,48.5,1.8,9.3,1.3,13.8,1.8
+AIV,Apartment Investment & Management Co Class A,Financials,6,-5.8,16.4,0.3,4.3,1,8.4,0.9
+ALK,"Alaska Air Group, Inc.",Air,6,6.3,11,1.2,1.9,0.8,1,1.2
+BLK,"BlackRock, Inc.",Financials,6,4.8,17.7,0.8,2.3,1.1,5.3,1.5
+CHRW,"C.H. Robinson Worldwide, Inc.",Air,6,-7.9,18.7,0.8,6.3,0.6,0.7,0.7
+CMI,Cummins Inc.,Others,6,-0.8,12.4,0.6,3.6,1,1.2,0.9
+CPB,Campbell Soup Company,F&B,6,7.2,25.6,1.2,5.8,1.4,1.7,0.9
+CTAS,Cintas Corporation,Service,6,2.8,30.6,1,7.9,0.8,3.7,1
+CTVA,Corteva Inc,Chemicals,6,-3.1,#N/A,#N/A,0.9,0.3,1.6,0.8
+DE,Deere & Company,Others,6,5.1,17.4,0.9,4.8,1.3,1.4,1
+DRI,"Darden Restaurants, Inc.",Others,6,-8.3,#N/A,#N/A,4.3,0.5,1.2,0.3
+FLIR,"FLIR Systems, Inc.",Others,6,6.3,41.5,1.6,3.7,0.5,3.8,1.5
+FTNT,"Fortinet, Inc.",Tech,6,19.7,57.2,1.8,13.9,1.7,8.7,1.3
+GWW,"W.W. Grainger, Inc.",Others,6,2.4,21.9,0.9,9.8,1.3,1.6,0.8
+LEG,"Leggett & Platt, Incorporated",Others,6,11.4,20.6,1.2,5.1,1.6,1.4,1.2
+LOW,"Lowe's Companies, Inc.",Others,6,1.2,21.2,1,45,1,1.3,0.7
+LYB,LyondellBasell Industries NV,Chemicals,6,-10.9,9.9,0.4,3.9,1.1,1,0.3
+MAS,Masco Corporation,Others,6,0.8,21.9,0.9,#N/A,#N/A,2.1,0.8
+MOS,Mosaic Company,Chemicals,6,-7.1,#N/A,#N/A,0.9,0.3,0.9,0.5
+NI,NiSource Inc,Others,6,1.8,31.9,1.2,2.1,0.9,2,0.6
+NWL,Newell Brands Inc,Others,6,-4.3,82.1,2.2,1.6,0.3,0.8,0.4
+PHM,"PulteGroup, Inc.",Others,6,0.2,10.6,0.8,1.9,0.7,1,0.8
+PNC,"PNC Financial Services Group, Inc.",Financials,6,10.2,14,1.2,1.5,1.1,3.3,1.2
+REG,Regency Centers Corporation,Financials,6,-3,44.2,0.7,1.7,0.4,9.7,1
+ROP,"Roper Technologies, Inc.",Others,6,3.4,21.1,0.7,3.9,0.9,6.9,1.4
+TEL,TE Connectivity Ltd.,Others,6,-3.9,16.3,0.7,2.9,0.7,2.3,0.8
+TPR,"Tapestry, Inc.",Others,6,-17.7,#N/A,#N/A,1.5,0.3,0.7,0.6
+TRV,"Travelers Companies, Inc.",Others,6,4.4,13.8,1,1.3,1.1,1.1,0.9
+VFC,V.F. Corporation,Others,6,2.4,34,0.6,6.7,1,2.2,1.2
+WAT,Waters Corporation,Others,6,-0.6,26.9,0.6,#N/A,#N/A,6.6,1
+AVB,"AvalonBay Communities, Inc.",Financials,5.8,1.7,37.2,0.6,2.7,0.6,12.6,1.3
+AWK,"American Water Works Company, Inc.",Utilities,5.8,4.9,35.8,1,3.6,1,6.2,1
+BEN,"Franklin Resources, Inc.",Financials,5.8,-8.3,12.3,0.6,1.5,0.7,2.5,0.7
+CMG,"Chipotle Mexican Grill, Inc.",Others,5.8,14.8,67.6,1.9,13.8,1.5,4.2,1
+CSCO,"Cisco Systems, Inc.",Tech,5.8,-5,17.6,0.5,5.2,0.6,4,0.9
+DOV,Dover Corporation,Others,5.8,2.1,25,0.9,5.5,0.8,2.4,0.8
+ED,"Consolidated Edison, Inc.",Utilities,5.8,1.8,22.2,0.9,1.7,0.7,2.4,0.9
+EQIX,"Equinix, Inc.",Financials,5.8,8.5,97.4,1.7,5.6,1.3,9,0.9
+GIS,"General Mills, Inc.",F&B,5.8,4.5,17.7,0.8,4.8,1.1,2.2,1.1
+GLW,Corning Inc,Others,5.8,1.9,27.3,1.1,2.1,0.5,2.3,0.8
+HAS,"Hasbro, Inc.",Others,5.8,3,26.1,1,4.8,1.1,2.9,0.6
+INCY,Incyte Corporation,Tech,5.8,14.7,42.5,1.6,7.3,1.1,8.8,1.1
+KEY,KeyCorp,Financials,5.8,4.3,12.5,1,1.2,0.9,2.6,1
+LKQ,LKQ Corporation,Others,5.8,5.3,20.5,1,2.2,1,0.9,1
+QCOM,QUALCOMM Incorporated,Others,5.8,7.4,21.3,1.1,17.9,1.6,3.9,0.9
+RF,Regions Financial Corporation,Financials,5.8,3.6,11.4,0.9,1.1,0.8,2.6,1
+RHI,Robert Half International Inc.,Service,5.8,4.7,16.2,1,6.4,1,1.2,1
+TDY,Teledyne Technologies Incorporated,Others,5.8,9,32.4,1.3,4.7,0.7,4.1,1.7
+TMUS,"T-Mobile US, Inc.",Others,5.8,4.1,19.5,1,2.3,1,1.5,1
+V,Visa Inc. Class A,Financials,5.8,11.5,33.5,1.7,12.7,0.7,17,2.1
+XOM,Exxon Mobil Corporation,Oil,5.8,-8.3,20.8,0.6,1.5,0.7,1.2,0.5
+ZTS,"Zoetis, Inc. Class A",Others,5.8,7.5,42.5,0.1,23.2,1.9,10.2,1.8
+MU,"Micron Technology, Inc.",Others,5.8,-8.4,19.1,0.5,#N/A,#N/A,2.4,0.4
+ACN,Accenture Plc Class A,Tech,5.6,2.6,30.4,0.9,9,1,3.5,0.8
+CHTR,"Charter Communications, Inc. Class A",Others,5.6,4.9,65.1,2,3.2,0.7,2.4,0.8
+CMA,Comerica Incorporated,Financials,5.6,5.7,9.1,0.7,1.4,1,2.9,1.1
+CPRT,"Copart, Inc.",Service,5.6,8,31.8,0.8,8.8,0.9,10.1,1.6
+CTLT,Catalent Inc,Others,5.6,22.9,64.5,1.1,4.1,1.5,3.6,1.4
+DAL,"Delta Air Lines, Inc.",Air,5.6,5.8,8,0.9,2.4,1.1,0.8,1
+DG,Dollar General Corporation,Others,5.6,8.3,23.1,1,5.8,1.3,1.4,1.2
+DLTR,"Dollar Tree, Inc.",Others,5.6,3.5,25.1,1,3.3,0.7,0.9,0.8
+EBAY,eBay Inc.,Service,5.6,-0.3,17.3,0.6,10,1,2.9,0.7
+ESS,"Essex Property Trust, Inc.",Financials,5.6,4.4,45.2,0.8,3.2,0.7,13.4,1.4
+EXC,Exelon Corporation,Utilities,5.6,-6.7,15.1,0.6,1.4,0.5,1.3,0.5
+FRT,Federal Realty Investment Trust,Financials,5.6,1.9,27.9,0.5,4.1,0.9,10.2,1.1
+IT,"Gartner, Inc.",Service,5.6,6.8,60.1,1.4,14.6,1.5,3.3,0.5
+KHC,Kraft Heinz Company,F&B,5.6,-4.9,20,0.9,0.7,0.2,1.5,0.8
+MNST,Monster Beverage Corporation,F&B,5.6,10.3,31.4,1.1,8.2,0.7,8.3,1.4
+PEP,"PepsiCo, Inc.",F&B,5.6,3.9,26.5,0.9,12.9,1.2,2.9,0.5
+PPG,"PPG Industries, Inc.",Others,5.6,-1.5,25.6,0.8,6,0.6,2.1,0.8
+SPGI,"S&P Global, Inc.",Financials,5.6,7,31.8,1,139.1,1.3,10.1,1
+TAP,Molson Coors Beverage Company Class B,F&B,5.6,-1.8,48.4,1.1,0.9,0.1,1.1,0.2
+VIAC,ViacomCBS Inc. Class B,Others,5.6,2.1,7.8,0.6,2,1.1,0.9,0.8
+WBA,Walgreens Boots Alliance Inc,Others,5.6,4.1,11.9,0.9,1.9,1.1,0.3,1
+XLNX,"Xilinx, Inc.",Others,5.6,3.4,24.2,0.6,7.9,1.1,6.1,1
+ABBV,"AbbVie, Inc.",Others,5.5,1.6,16.8,0.7,#N/A,#N/A,3.9,0.9
+GE,General Electric Company,Others,5.5,-3.4,#N/A,#N/A,3.4,0.5,1,0.4
+ALGN,"Align Technology, Inc.",Others,5.4,22.4,50.5,1.1,16.3,1.3,9.3,1.4
+AME,"AMETEK, Inc.",Others,5.4,6.5,26.6,1.2,4.5,0.3,4.4,1.5
+BWA,BorgWarner Inc.,Others,5.4,-3.4,12,0.7,1.9,0.5,0.9,0.7
+CME,CME Group Inc. Class A,Financials,5.4,10.7,34,1.4,2.7,0.7,14.7,2.1
+DRE,Duke Realty Corporation,Financials,5.4,2.7,29.5,0.5,2.5,0.6,13.1,1.4
+EMN,Eastman Chemical Company,Chemicals,5.4,-8.6,14.5,0.3,1.8,0.6,1.2,0.6
+EW,Edwards Lifesciences Corporation,Others,5.4,16.8,47.3,1.1,11.8,1,11.4,1.8
+FOX,Fox Corporation Class B,Others,5.4,8,16.5,1.2,1.6,0.9,1.3,1.1
+FOXA,Fox Corporation Class A,Others,5.4,8,16.5,1.2,1.6,0.9,1.3,1.1
+HSIC,"Henry Schein, Inc.",Others,5.4,6,19.6,0.9,3.2,0.6,1,3.1
+HUM,Humana Inc.,Others,5.4,15,18.2,1,4,1.3,0.8,1.1
+IP,International Paper Company,Others,5.4,-4,15,0.6,2.3,0.5,0.8,0.6
+KO,Coca-Cola Company,F&B,5.4,9.2,26.8,0.9,12.5,1.1,6.4,1.1
+PH,Parker-Hannifin Corporation,Others,5.4,-4.4,19.7,0.7,3.9,0.6,1.7,0.6
+RL,Ralph Lauren Corporation Class A,Others,5.4,-2.4,13.7,0.7,1.8,0.3,0.9,0.8
+RSG,"Republic Services, Inc.",Service,5.4,2.6,26.9,1,3.5,0.7,2.8,0.9
+SRE,Sempra Energy,Others,5.4,7.3,20.8,0.8,2.5,1.1,4,1.1
+TER,"Teradyne, Inc.",Others,5.4,9.2,26.2,1.1,7.7,0.8,5.3,1.1
+HPQ,HP Inc.,Tech,5.3,0.3,8.4,0.6,#N/A,#N/A,0.5,0.7
+KMB,Kimberly-Clark Corporation,Others,5.3,-0.2,22,0.6,#N/A,#N/A,2.6,0.7
+LYV,"Live Nation Entertainment, Inc.",Others,5.3,7,#N/A,#N/A,13.3,1,1.3,1
+TDG,TransDigm Group Incorporated,Others,5.3,37.1,37.6,1.5,#N/A,#N/A,5.6,2.3
+WU,Western Union Company,Financials,5.3,-5.3,10.9,0.5,#N/A,#N/A,2.2,0.3
+ADP,"Automatic Data Processing, Inc.",Tech,5.2,2.9,26.1,0.4,11.1,2.1,4.4,0.6
+CERN,Cerner Corporation,Tech,5.2,6.1,44.5,1.3,5.4,0.6,4.1,0.9
+ETSY,"Etsy, Inc.",Service,5.2,35.6,58.1,1.4,12.9,1.3,6.8,1.1
+FDX,FedEx Corporation,Air,5.2,-0.7,26.6,1.2,1.9,0.2,0.5,0.5
+HBAN,Huntington Bancshares Incorporated,Financials,5.2,4.5,11.9,0.9,1.5,0.9,2.9,1
+IPG,"Interpublic Group of Companies, Inc.",Service,5.2,5.2,13.8,1,3.2,0.8,0.9,0.8
+IRM,"Iron Mountain, Inc.",Financials,5.2,0.9,34.3,0.6,6.3,1.4,2.2,0.2
+LRCX,Lam Research Corporation,Others,5.2,4.1,20,0.8,8.5,0.9,4.5,0.9
+MHK,"Mohawk Industries, Inc.",Others,5.2,-0.1,13.2,0.8,1.2,0.4,1,0.8
+MTB,M&T Bank Corporation,Financials,5.2,6.3,12.3,0.9,1.5,0.9,3.3,1.1
+MYL,Mylan N.V.,Others,5.2,0.6,618.5,1.9,0.9,0.1,0.9,0.2
+NLOK,NortonLifeLock Inc.,Tech,5.2,1.4,20.5,0.1,"1,077.20",9.8,4.7,0.5
+NRG,"NRG Energy, Inc.",Utilities,5.2,1.9,2.5,0.1,6,2.3,1.1,0.4
+PFE,Pfizer Inc.,Others,5.2,-3.5,13.7,0.6,3.4,0.2,4.3,0.9
+RMD,ResMed Inc.,Others,5.2,13.4,45,1,11.1,0.9,9.5,1.5
+SLG,SL Green Realty Corp.,Financials,5.2,-14,29.6,0.5,1.4,0.3,5.7,0.6
+STX,Seagate Technology PLC,Tech,5.2,1.1,12.5,0.8,6.8,0.6,1.2,0.8
+SWKS,"Skyworks Solutions, Inc.",Others,5.2,-12.7,15.8,0.4,3.2,0.4,4,0.7
+TTWO,"Take-Two Interactive Software, Inc.",Others,5.2,15.8,33.5,1.3,5.3,1.2,4.4,0.9
+XRX,Xerox Holdings Corporation,Tech,5.2,-7.8,11.5,0.7,1.4,0.1,0.9,0.6
+ADSK,"Autodesk, Inc.",Tech,5,26.3,204.2,1.3,#N/A,#N/A,13.4,1.3
+CAH,"Cardinal Health, Inc.",Others,5,5.1,#N/A,#N/A,8.5,1.6,0.1,0.3
+DISH,DISH Network Corporation Class A,Others,5,-6,13.6,0.4,1.6,0.3,1.5,0.5
+DUK,Duke Energy Corporation,Utilities,5,2.3,17.9,0.8,1.5,0.6,2.7,1
+DXC,DXC Technology Co.,Tech,5,-5.7,#N/A,#N/A,0.7,0.1,0.2,0
+EFX,Equifax Inc.,Service,5,2.8,#N/A,#N/A,6.6,0.7,4.8,0.8
+FANG,"Diamondback Energy, Inc.",Oil,5,82.1,63.4,2.1,1.1,0.6,3.8,1.5
+FB,"Facebook, Inc. Class A",Tech,5,26.6,31.9,1.1,5.8,1.3,8.3,1
+GPS,"Gap, Inc.",Others,5,-1.2,18.7,1,1.9,0.3,0.4,0.4
+JPM,JPMorgan Chase & Co.,Financials,5,18.5,13,1.1,1.8,1.4,3,1.1
+KEYS,Keysight Technologies Inc,Others,5,11,31,1,6.3,1.4,4.5,0.9
+LIN,Linde plc,Chemicals,5,90.3,50.8,1.8,2.3,0.6,4.1,1.4
+LNC,Lincoln National Corporation,Others,5,5.1,13.5,1.2,0.6,0.6,0.7,0.6
+MDT,Medtronic Plc,Others,5,-5.4,28,0.6,2.6,0.2,4.6,0.7
+PEAK,"Healthpeak Properties, Inc.",Financials,5,8.2,383.4,6.5,2.9,0.6,8.4,0.9
+T,AT&T Inc.,Others,5,6.1,20.6,1.2,1.5,0.5,1.6,0.9
+XRAY,"DENTSPLY SIRONA, Inc.",Others,5,1.1,48.3,1.1,2.5,0.2,3.2,0.5
+AAP,"Advance Auto Parts, Inc.",Others,4.8,1.3,23.1,1,3.1,0.2,1.2,0.6
+C,Citigroup Inc.,Financials,4.8,5.9,10,0.9,1,0.5,1.7,1.2
+DHR,Danaher Corporation,Others,4.8,5.1,44.7,1,3.7,0.3,6.2,1
+EQR,Equity Residential,Financials,4.8,4.7,31.2,0.5,2.9,0.7,11.7,1.2
+ETN,Eaton Corp. Plc,Others,4.8,-1,18,0.8,2.4,0.2,1.9,0.6
+GPC,Genuine Parts Company,Others,4.8,3.5,25,1,4.2,0.6,0.8,0.4
+IBM,International Business Machines Corporation,Tech,4.8,-3.1,12.7,0.4,5.7,0.6,1.6,0.4
+ISRG,"Intuitive Surgical, Inc.",Others,4.8,20.3,51.2,1.2,8.3,0.7,15.8,2.5
+KLAC,KLA Corporation,Others,4.8,27.1,25.3,1.1,11.3,1.2,5.3,1.1
+KR,Kroger Co.,F&B,4.8,0.9,13.2,0.7,2.5,0.7,0.2,0.4
+MCHP,Microchip Technology Incorporated,Others,4.8,-1.4,30.4,0.8,3,0.4,3.3,0.5
+MRK,"Merck & Co., Inc.",Others,4.8,9.8,23.8,1,8.9,0.6,5,1.1
+PAYX,"Paychex, Inc.",Tech,4.8,7.1,23.8,0.3,9.3,1.8,6.5,0.9
+TFC,Truist Financial Corporation,Financials,4.8,11.9,15.2,1.1,1.2,0.8,3.2,1
+VMC,Vulcan Materials Company,Others,4.8,12.5,31.1,1,3.4,1,3.9,1
+WST,"West Pharmaceutical Services, Inc.",Others,4.8,7.3,46.9,1.1,7.1,0.6,6.1,1
+ZION,"Zions Bancorporation, N.A.",Financials,4.8,7,12.4,0.9,1.3,0.8,3,1
+AZO,"AutoZone, Inc.",Others,4.8,6.5,16.5,0.7,#N/A,#N/A,2.3,1.3
+DPZ,"Domino's Pizza, Inc.",Others,4.8,5.4,30.6,0.9,#N/A,#N/A,3.4,0.8
+J,Jacobs Engineering Group Inc.,Others,4.8,20.5,#N/A,#N/A,2.1,1.2,1,1.3
+AIG,"American International Group, Inc.",Others,4.6,4.6,13.7,1,0.7,0.6,0.9,0.8
+AIZ,"Assurant, Inc.",Others,4.6,25.9,22.4,1.7,1.4,1.1,0.8,0.7
+AKAM,"Akamai Technologies, Inc.",Tech,4.6,6.6,29.7,1,3.8,0.9,4.9,0.6
+AVGO,Broadcom Inc.,Others,4.6,8.4,46.1,1.2,4.7,0.7,5.5,0.9
+CBRE,"CBRE Group, Inc. Class A",Others,4.6,12,16.3,1,3.3,1,0.9,1
+CVS,CVS Health Corporation,Others,4.6,31.9,14.6,1.1,1.5,0.9,0.4,1
+DGX,Quest Diagnostics Incorporated,Service,4.6,2.6,17,0.3,2.5,0.8,1.9,0.9
+DIS,Walt Disney Company,Others,4.6,16.7,19.6,1,2.6,1,3.1,1
+DLR,"Digital Realty Trust, Inc.",Financials,4.6,5.6,50.9,0.9,3,0.7,7.9,0.8
+EXR,Extra Space Storage Inc.,Financials,4.6,9.6,32.6,0.6,5.4,1.2,10.9,1.1
+GILD,"Gilead Sciences, Inc.",Tech,4.6,0.5,15.4,0.6,3.7,0.5,3.7,0.5
+HIG,"Hartford Financial Services Group, Inc.",Others,4.6,9.4,10.7,0.8,1.4,1.1,1.1,0.9
+JBHT,"J.B. Hunt Transport Services, Inc.",Others,4.6,6.4,24.5,1,5.5,1.1,1.4,0.5
+JNPR,"Juniper Networks, Inc.",Tech,4.6,-4.3,24.9,0.7,1.8,0.2,1.9,0.4
+KIM,Kimco Realty Corporation,Financials,4.6,-0.9,25.9,0.4,1.8,0.4,7.7,0.8
+L,Loews Corporation,Others,4.6,6.1,17.1,1.3,0.8,0.5,1.1,0.7
+MCK,McKesson Corporation,Others,4.6,7.8,27.4,1.2,4.3,0.8,0.1,0.3
+MET,"MetLife, Inc.",Others,4.6,2.5,8.4,0.8,0.7,0.7,0.7,0.6
+O,Realty Income Corporation,Financials,4.6,11.9,53.3,0.9,2.5,0.6,15.5,1.6
+PKI,"PerkinElmer, Inc.",Others,4.6,3.8,47.6,1.1,3.8,0.3,3.8,0.6
+PYPL,PayPal Holdings Inc,Tech,4.6,13.3,52.3,0.7,7.5,1.4,7.3,1
+SIVB,SVB Financial Group,Financials,4.6,30.9,11.6,0.9,2.1,1.3,3.7,1.2
+TFX,Teleflex Incorporated,Others,4.6,6,38.4,0.9,6,0.5,6.8,1.1
+UAL,"United Airlines Holdings, Inc.",Air,4.6,4.7,7.6,0.8,1.9,0.8,0.5,0.7
+ULTA,Ulta Beauty Inc,Others,4.6,10.1,22.1,1,8,0.5,2.1,1.2
+CXO,Concho Resources Inc.,Oil,4.5,10.6,#N/A,#N/A,1,0.6,3.8,1.5
+D,Dominion Energy Inc,Utilities,4.5,22.1,51,2.2,2.3,0.9,#N/A,#N/A
+MSCI,MSCI Inc. Class A,Tech,4.5,8.6,39.2,0.5,#N/A,#N/A,14.2,2
+SBUX,Starbucks Corporation,Others,4.5,7.2,30.3,0.9,#N/A,#N/A,4.1,1
+STZ,"Constellation Brands, Inc. Class A",F&B,4.5,2.8,#N/A,#N/A,2.7,0.4,3.9,0.8
+ABC,AmerisourceBergen Corporation,Others,4.4,6.9,20.4,0.9,5.9,1.1,0.1,0.3
+BAX,Baxter International Inc.,Others,4.4,2.4,43.4,1,5.4,0.4,3.8,0.6
+CHD,"Church & Dwight Co., Inc.",Others,4.4,5.1,28.8,0.8,6.5,0.1,4.1,1.1
+DHI,"D.R. Horton, Inc.",Others,4.4,9.5,12.3,1,1.9,0.7,1.1,0.9
+FLS,Flowserve Corporation,Others,4.4,2.9,25.8,0.9,3.6,0.6,1.7,0.5
+FLT,"FLEETCOR Technologies, Inc.",Service,4.4,8.8,29,0.7,6.6,0.7,9.8,1.5
+LH,Laboratory Corporation of America Holdings,Service,4.4,2,20.2,0.3,2.2,0.7,1.4,0.7
+MCO,Moody's Corporation,Financials,4.4,8.7,32,1,72.8,0.7,9.4,1
+MLM,"Martin Marietta Materials, Inc.",Others,4.4,11.7,28.7,1,3.3,1,3.7,1
+PG,Procter & Gamble Company,Others,4.4,4.8,24.1,0.6,6.5,0.1,4.4,1.2
+PRGO,Perrigo Co. Plc,Others,4.4,2.2,48.3,0.9,1.2,0.5,1.5,0.6
+SJM,J.M. Smucker Company,F&B,4.4,-0.5,16.8,0.7,1.6,0.1,1.7,0.6
+TXT,Textron Inc.,Others,4.4,-2.4,12.8,0.5,1.8,0.3,0.8,0.3
+WAB,Westinghouse Air Brake Technologies Corporation,Others,4.4,87.9,42.4,2.2,1.5,0.4,1.7,1.2
+WFC,Wells Fargo & Company,Financials,4.4,12.9,13.3,1.1,1.3,1,2.2,0.8
+AAL,"American Airlines Group, Inc.",Air,4.3,2.8,7.6,0.8,#N/A,#N/A,0.3,0.4
+HCA,HCA Healthcare Inc,Others,4.3,10,14.7,1,#N/A,#N/A,1,0.9
+WDC,Western Digital Corporation,Tech,4.3,1,#N/A,#N/A,1.3,0.1,0.8,0.5
+ABMD,"ABIOMED, Inc.",Others,4.2,9.3,32.8,0.7,6.1,0.5,7.9,1.2
+ABT,Abbott Laboratories,Others,4.2,4.3,42.2,1,4.9,0.4,4.8,0.8
+AJG,Arthur J. Gallagher & Co.,Financials,4.2,2.8,27.1,0.8,3.5,0.5,2.6,0.6
+AMCR,Amcor PLC,Others,4.2,31.8,26.7,1.1,3.4,0.8,1.3,1
+AMZN,"Amazon.com, Inc.",Others,4.2,20.5,80.4,1,14.8,1,3.3,1
+ANTM,"Anthem, Inc.",Others,4.2,13.1,16.4,0.9,2.4,0.8,0.8,1.1
+BK,Bank of New York Mellon Corporation,Financials,4.2,8.3,11.2,0.9,1.3,1,2.3,0.8
+BKR,Baker Hughes Company Class A,Oil,4.2,4.2,111.5,1,0.8,0.5,0.6,0.6
+CINF,Cincinnati Financial Corporation,Others,4.2,46.6,8.7,0.7,1.7,1,2.2,1.5
+COST,Costco Wholesale Corporation,Others,4.2,9.2,38.6,1.7,8.4,0.5,0.9,0.5
+DFS,Discover Financial Services,Financials,4.2,8.9,9.3,0.7,2.3,1.4,1.9,0.6
+FTV,Fortive Corp.,Others,4.2,13.4,38.8,1.3,3.5,0.8,3.5,0.7
+LMT,Lockheed Martin Corporation,Others,4.2,11.3,17.7,0.7,35,5,1.8,0.8
+NEM,Newmont Corporation,Others,4.2,33.9,11.4,1,1.6,1,3.3,1
+PBCT,"People's United Financial, Inc.",Financials,4.2,19.3,13.3,1.1,1,0.7,2.9,1.1
+VTR,"Ventas, Inc.",Financials,4.2,3.4,49.3,0.8,2.1,0.5,5.5,0.6
+ARE,"Alexandria Real Estate Equities, Inc.",Financials,4,14.6,51.8,0.9,2.2,0.5,11.9,1.2
+BR,"Broadridge Financial Solutions, Inc.",Service,4,9.5,31.9,0.8,10.8,1.1,3.2,0.5
+CDW,CDW Corp.,Tech,4,11,28.7,0.9,21.3,2.4,1.2,0.3
+EMR,Emerson Electric Co.,Others,4,5.5,18,0.8,5,0.3,2.3,0.8
+FBHS,"Fortune Brands Home & Security, Inc.",Others,4,5.1,21.4,0.9,3.8,0.5,1.6,0.6
+FFIV,"F5 Networks, Inc.",Tech,4,3.7,19.8,0.6,4.8,0.6,3.8,0.6
+FTI,TechnipFMC Plc,Oil,4,7,#N/A,#N/A,1.3,0.8,0.7,0.7
+GRMN,Garmin Ltd.,Others,4,12.2,19.7,1,3.9,0.4,5,1.2
+HST,"Host Hotels & Resorts, Inc.",Financials,4,-1,14.7,0.2,1.8,0.4,2.5,0.3
+INTC,Intel Corporation,Others,4,1.6,12.8,0.3,3.3,0.5,3.7,0.6
+NOC,Northrop Grumman Corporation,Others,4,12.4,26,1,6.5,0.9,1.7,0.7
+PWR,"Quanta Services, Inc.",Others,4,8.4,14.9,1,1.4,0.8,0.5,0.7
+SCHW,Charles Schwab Corporation,Financials,4,7.2,17.8,0.7,3.2,0.8,5.3,0.8
+TMO,Thermo Fisher Scientific Inc.,Others,4,4.9,35.4,0.8,4.4,0.4,5.1,0.8
+TSCO,Tractor Supply Company,Others,4,5.6,19.8,0.9,7,0.5,1.3,0.7
+WELL,"Welltower, Inc.",Financials,4,8.9,68.2,1.2,2.2,0.5,6.4,0.7
+ZBH,"Zimmer Biomet Holdings, Inc.",Others,4,0.6,27.3,0.6,2.5,0.2,3.9,0.6
+BDX,"Becton, Dickinson and Company",Others,3.8,8.2,64.2,1.5,3.2,0.3,4,0.6
+BIO,"Bio-Rad Laboratories, Inc. Class A",Others,3.8,1,6.4,0.1,1.9,0.2,4.8,0.8
+BMY,Bristol-Myers Squibb Company,Others,3.8,15.9,32,1.4,2.8,0.2,4.2,0.9
+CLX,Clorox Company,Others,3.8,8.2,29.8,0.8,30.5,0.3,4.2,1.1
+COO,"Cooper Companies, Inc.",Others,3.8,4.8,31.2,0.7,3.9,0.3,5.5,0.9
+EVRG,"Evergy, Inc.",Utilities,3.8,20.4,23.3,1,1.7,0.7,3,1.1
+FIS,"Fidelity National Information Services, Inc.",Tech,3.8,22.7,210.5,2.9,1.7,0.3,6.1,0.9
+GPN,Global Payments Inc.,Tech,3.8,45.9,84.4,1.2,2,0.4,7.4,1.1
+MMC,"Marsh & McLennan Companies, Inc.",Financials,3.8,11.7,32.7,0.9,7.2,0.9,3.4,0.7
+ORCL,Oracle Corporation,Tech,3.8,-1.1,17.5,0.1,13.7,0.1,4.5,0.4
+PGR,Progressive Corporation,Others,3.8,22.2,10.8,0.8,3.2,1.9,1.1,0.7
+PRU,"Prudential Financial, Inc.",Financials,3.8,2.9,9.3,0.8,0.6,0.3,0.6,0.4
+RE,"Everest Re Group, Ltd.",Others,3.8,11.8,11.2,0.9,1.2,0.7,1.4,0.9
+TGT,Target Corporation,Others,3.8,3.7,17.4,0.8,4.7,0.3,0.7,0.4
+TT,Trane Technologies plc,Others,3.8,5.9,22.8,0.6,4.4,0.8,2,0.8
+UNM,Unum Group,Others,3.8,3.5,5.6,0.5,0.6,0.6,0.5,0.4
+HOLX,"Hologic, Inc.",Others,3.8,4.6,#N/A,#N/A,6.3,0.5,4,0.6
+BXP,"Boston Properties, Inc.",Financials,3.6,9.3,41.8,0.7,3.9,0.9,7.2,0.7
+CRM,"salesforce.com, inc.",Tech,3.6,28.7,"1,230.20",8.1,4.8,0,9.1,0.9
+CTXS,"Citrix Systems, Inc.",Tech,3.6,1.2,22,0.1,17.2,0.2,5,0.5
+EA,Electronic Arts Inc.,Others,3.6,10.8,9.7,0.4,3.9,0.9,5.4,1.1
+ETFC,E*TRADE Financial Corporation,Financials,3.6,3.2,11.8,0.5,1.7,0.4,3.4,0.5
+GOOG,Alphabet Inc. Class C,Tech,3.6,17.8,27.2,1,4.6,1.1,5.8,0.7
+GOOGL,Alphabet Inc. Class A,Tech,3.6,17.8,27.2,1,4.6,1.1,5.8,0.7
+HBI,Hanesbrands Inc.,Others,3.6,2.4,9,0.2,4.3,0.7,0.8,0.4
+LHX,L3Harris Technologies Inc,Others,3.6,108,26.7,1,2,0.3,2.8,1.1
+MPC,Marathon Petroleum Corporation,Oil,3.6,28.3,15.2,1,1.2,0.7,0.3,0.8
+PLD,"Prologis, Inc.",Financials,3.6,18.8,36.2,0.6,2.5,0.6,17.5,1.8
+SYK,Stryker Corporation,Others,3.6,9.4,38.3,0.9,6.1,0.5,5.4,0.8
+TSN,"Tyson Foods, Inc. Class A",F&B,3.6,6,15.1,0.8,2.2,0.7,0.7,0.5
+A,"Agilent Technologies, Inc.",Others,3.4,5.1,22.5,0.5,4.9,0.4,4.7,0.7
+ANET,"Arista Networks, Inc.",Tech,3.4,12.1,19.1,0.6,5.4,0.7,6.8,1.1
+CAG,"Conagra Brands, Inc.",F&B,3.4,15.9,20.2,0.9,2.2,0.5,1.5,0.8
+CFG,"Citizens Financial Group, Inc.",Financials,3.4,9.1,10.7,0.8,0.9,0.5,2.3,0.8
+EXPE,"Expedia Group, Inc.",Service,3.4,7.5,28.7,1,3.9,0.4,1.3,0.3
+HII,"Huntington Ingalls Industries, Inc.",Others,3.4,8.8,18.9,0.7,6.4,0.9,1.2,0.5
+PCAR,PACCAR Inc,Others,3.4,9,11.5,0.6,2.8,0.8,1.1,0.8
+QRVO,"Qorvo, Inc.",Others,3.4,4.8,28.8,0.7,2.2,0.3,3,0.5
+ALB,Albemarle Corporation,Chemicals,3.2,6.4,14.6,0.5,2,0.5,2.2,0.7
+BIIB,Biogen Inc.,Tech,3.2,5.5,9.4,0.4,3.9,0.6,4.4,0.6
+CNC,Centene Corporation,Others,3.2,24.2,20,1.1,2.1,0.7,0.4,0.5
+DISCA,"Discovery, Inc. Class A",Others,3.2,5.6,11.5,0.4,1.8,0.4,2.1,0.7
+DISCK,"Discovery, Inc. Class C",Others,3.2,5.6,10.7,0.3,1.6,0.3,2,0.7
+VAR,"Varian Medical Systems, Inc.",Others,3.2,10.4,37.2,0.8,6.1,0.5,3.4,0.5
+WLTW,Willis Towers Watson Public Limited Company,Financials,3.2,6.5,25.1,0.7,2.5,0.3,2.9,0.6
+CNP,"CenterPoint Energy, Inc.",Utilities,3,15.2,20.4,0.9,2.1,0.8,1.1,0.4
+CTSH,Cognizant Technology Solutions Corporation Class A,Tech,3,4.1,18.9,0.6,3.1,0.3,2.1,0.5
+LEN,Lennar Corporation Class A,Others,3,8.2,10.4,0.8,1.2,0.4,0.9,0.7
+MAA,"Mid-America Apartment Communities, Inc.",Financials,3,#N/A,#N/A,#N/A,2.5,0.6,#N/A,#N/A
+NCLH,Norwegian Cruise Line Holdings Ltd.,Others,3,6.7,13.6,0.6,1.9,0.1,2,0.8
+PAYC,"Paycom Software, Inc.",Tech,3,30.3,85.7,0.6,29,0.3,21,2.1
+PVH,PVH Corp.,Others,3,2.6,15.6,0.3,1.1,0.2,0.7,0.3
+RCL,Royal Caribbean Group,Others,3,15.3,14.9,0.6,2.3,0.1,2.6,1.1
+SYF,Synchrony Financial,Financials,3,3,6.5,0.3,1.5,0.1,1.6,0.2
+TWTR,"Twitter, Inc.",Tech,3,13.7,17.2,0.6,2.9,0.7,7.3,0.9
+ALL,Allstate Corporation,Others,2.8,12.2,8,0.6,1.5,0.9,0.8,0.6
+BSX,Boston Scientific Corporation,Others,2.8,9.3,13.6,0.3,4.5,0.4,5.9,0.9
+COF,Capital One Financial Corporation,Financials,2.8,11.2,9.3,0.8,0.8,0.6,1.4,0.5
+FISV,"Fiserv, Inc.",Tech,2.8,74.9,67.7,0.9,2.4,0.5,5.9,0.8
+FITB,Fifth Third Bancorp,Financials,2.8,19.5,9.2,0.7,1.1,0.7,2.4,0.8
+REGN,"Regeneron Pharmaceuticals, Inc.",Tech,2.8,17.2,20.3,0.8,3.7,0.5,5.5,0.7
+RTX,Raytheon Technologies Corporation,Others,2.8,16,23.4,0.9,3.1,0.4,1.7,0.7
+OXY,Occidental Petroleum Corporation,Oil,2.8,20.1,#N/A,#N/A,1.5,0.9,1.8,0.7
+ADBE,Adobe Inc.,Tech,2.6,23.9,51.6,0.3,14.2,0.1,13.7,1.3
+AMP,"Ameriprise Financial, Inc.",Financials,2.6,14.7,12,0.5,3.6,0.9,1.6,0.2
+ANSS,"ANSYS, Inc.",Tech,2.6,17.2,49,0.3,6.4,0.1,14.6,1.4
+CI,Cigna Corporation,Others,2.6,216.5,15.2,0.8,1.7,0.6,0.5,0.7
+GD,General Dynamics Corporation,Others,2.6,8.7,14.7,0.6,3.8,0.5,1.3,0.5
+INTU,Intuit Inc.,Tech,2.6,13.2,44.3,0.3,15.7,0.1,10.5,1
+LDOS,"Leidos Holdings, Inc.",Tech,2.6,8.8,21.6,0.6,4.1,0.5,1.3,0.3
+MS,Morgan Stanley,Financials,2.6,4.1,9.8,0.4,1.1,0.3,1.3,0.2
+MSFT,Microsoft Corporation,Tech,2.6,14,35.3,0.2,13,0.1,10.9,1.1
+RJF,"Raymond James Financial, Inc.",Financials,2.6,7.1,11.5,0.5,1.7,0.4,1.5,0.2
+CDNS,"Cadence Design Systems, Inc.",Tech,2.4,9.3,19.9,0.1,9.4,0.1,8.4,0.8
+CMCSA,Comcast Corporation Class A,Others,2.4,15.3,15.9,0.5,2.5,0.5,1.9,0.7
+SNPS,"Synopsys, Inc.",Tech,2.4,7.7,39.3,0.3,5,0,6.2,0.6
+STE,STERIS Plc,Others,2.4,8.9,29.4,0.7,3.5,0.3,4,0.6
+CCL.U,Carnival Corporation,Others,2.2,10.3,10.4,0.5,1.2,0.1,1.5,0.6
+IFF,International Flavors & Fragrances Inc.,Others,2.2,29.2,32.3,0.9,2.2,0,2.8,0.7
+MGM,MGM Resorts International,Others,2.2,9.7,8.6,0.2,2.2,0.3,1.4,0.5
+PFG,"Principal Financial Group, Inc.",Financials,2,14,11.1,0.5,1,0.5,1,0.3
+KMX,"CarMax, Inc.",Others,1.8,11.8,16.4,0.7,3.8,0.2,0.7,0.4
+ALXN,"Alexion Pharmaceuticals, Inc.",Tech,1.6,19.9,10.1,0.4,2.1,0.3,4.9,0.6
+IVZ,Invesco Ltd.,Financials,1.6,17.4,14,0.7,0.8,0.4,1.3,0.4
+URI,"United Rentals, Inc.",Financials,1.6,16.2,11,0.6,3.2,0.2,1.4,0.2
+VNO,Vornado Realty Trust,Financials,1.5,124.5,4.1,0.1,2.2,0.5,#N/A,#N/A
+GS,"Goldman Sachs Group, Inc.",Financials,1.4,16.5,10.9,0.5,1,0.3,1.5,0.2
+WRK,WestRock Company,Others,1.4,12.3,10.9,0.5,0.8,0.2,0.5,0.4

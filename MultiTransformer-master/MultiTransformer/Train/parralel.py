@@ -324,20 +324,18 @@ def process_index(index):
 
         ResultsCollection.loc[len(ResultsCollection)] = IterResults
         #Results are saved
-        ResultsCollection.to_csv(f'./assets/5_MTL_GARCH_{asset_name}.csv',index=False)
+        ResultsCollection.to_csv(f'./assets/Drop000/5_MTL_GARCH_{asset_name}.csv',index=False)
         
 # Define the indices to process
-indices = ["^GSPC", "^FTSE", "^N225"]
+indices = ['AAPL', 'MSFT', 'NVDA', 'JNJ', 'NVS','JPM','GS','AMZN','DIS','MCD','NEE','BA','CAT','XOM','CVX','RIO','BHP']
 
 
 def main():
     # Create a pool of 4 workers within a context
-    with mp.Pool(4) as pool:
+    with mp.Pool(6) as pool:
         # Start a process for each index
         results = pool.map(process_index, indices)
 
-    # The pool is automatically closed and all processes are waited for 
-    # at the end of the 'with' context, so no need to call pool.close() and pool.join()
 
 
 if __name__ == "__main__":
